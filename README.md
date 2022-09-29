@@ -2,6 +2,8 @@
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mc256&langs_count=10&layout=compact&theme=graywhite)
 
+
+### Happy Gaming 👾
 Genshin Impact UID (Asia): **814871311** <br/>
 <img src="https://mc256.dev/wp-content/uploads/2022/09/IMG_0945.png" width="350"/>
 
