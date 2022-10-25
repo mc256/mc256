@@ -7,8 +7,8 @@ NFT Avatar <br/>
 
 
 Genshin Impact UID (Asia): **814871311** <br/>
-<img src="https://mc256.dev/wp-content/uploads/2022/09/IMG_0945.png" width="360"/>
+<a href="https://genshin.hoyoverse.com/" target="_blank"><img src="https://mc256.dev/wp-content/uploads/2022/09/IMG_0945.png" width="360"/></a>
 
 IM@S MLTD: **2FMMY6GU** <br/>
-<img src="https://mc256.dev/wp-content/uploads/2022/09/IMG_5362AA53FF6F-1.jpeg" width="360"/>
+<a href="https://millionlive-theaterdays.idolmaster-official.jp/" target="_blank"><img src="https://mc256.dev/wp-content/uploads/2022/09/IMG_5362AA53FF6F-1.jpeg" width="360"/></a>
 
