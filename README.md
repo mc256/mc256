@@ -2,7 +2,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mc256&langs_count=10&layout=compact&theme=graywhite" width="360"/>
 
 ### Happy Gaming 👾
-NFT Avatar <br/>
+<a href="https://en.wikipedia.org/wiki/Non-fungible_token" target="_blank">NFT</a> Avatar <br/>
 [![Release](https://img.shields.io/badge/ETH-0xB05aA0D74e0C0857D3A184d666062d843b67437d-blue?logo=ethereum&logoColor=white&style=flat-square&color=%2350c3ff&logoWidth=17)](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/79767187670508267541581898996763846900408929008789729806553921175712180469761)
 
 
