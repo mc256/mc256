@@ -1,5 +1,5 @@
 ### Happy Coding 👋
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mc256&langs_count=10&layout=compact&theme=graywhite&cache_seconds=86400" width="360"/>
+<img src="https://u7pwwaueckqfsdwpler2eeit6q0gkymi.lambda-url.us-east-2.on.aws/" width="360"/>
 
 ### Happy Gaming 👾
 <a href="https://en.wikipedia.org/wiki/Non-fungible_token" target="_blank">NFT</a> Avatar <br/>
