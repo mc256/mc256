@@ -1,5 +1,5 @@
 ### Happy Coding 👋
-<img src="https://u7pwwaueckqfsdwpler2eeit6q0gkymi.lambda-url.us-east-2.on.aws/" width="360"/>
+<img src="https://user-images.githubusercontent.com/1913688/214364705-490a79c6-488b-4d36-90e2-ee654fe7189e.svg" width="360"/>
 
 ### Happy Gaming 👾
 <a href="https://en.wikipedia.org/wiki/Non-fungible_token" target="_blank">NFT</a> Avatar <br/>
@@ -10,4 +10,3 @@
 <!--<img src="https://mc256.dev/wp-content/uploads/2022/09/IMG_0945.png" width="360"/>-->
 <a href="https://millionlive-theaterdays.idolmaster-official.jp/" target="_blank">IM@S MLTD</a>: **2FMMY6GU** <br/>
 <!--<img src="https://mc256.dev/wp-content/uploads/2022/09/IMG_5362AA53FF6F-1.jpeg" width="360"/>-->
-
